@@ -24,7 +24,7 @@ Finally, the outpouring of support and gratitude from the mapping community on T
 Mapping tools and software’s used; QGIS, ArcGIS Pro, Python, Blender, Aerialod, and GIMP.
 
 
-[Here](https://twitter.com/tjukanov/status/1443868144905428992) you can find the official list of daily mapping topics, and [here](https://twitter.com/tyson_okoth) is my Twitter profile, where I posted my map creations. Contact on mail at: `tysonokoth8@gmail.com`
+[Here](https://twitter.com/tjukanov/status/1443868144905428992) you can find the official list of daily mapping topics, and [here](https://twitter.com/tyson_okoth) is my Twitter profile, where I posted my map creations.
 
 Here is a montage of my maps.
 
