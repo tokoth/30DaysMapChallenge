@@ -1,5 +1,13 @@
 <h1 align="center"><b>#30DayMapChallenge 🌎🌏🌎</b></h1>
 
+***
+[![Twitter](https://img.shields.io/badge/tyson_okoth-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/tyson_okoth)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/okoth-tyson-0968a9178/)
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tokoth)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tysonokoth8@gmail.com)
+
+***
+
 <table>
 <p align="center"><a href="#"><img src="https://raw.githubusercontent.com/ambarja/30DayMapChallenge/master/images/flyers/30dmpc_2021.png"></a></p>
 </table>
@@ -24,16 +32,4 @@ Here is a montage of my maps.
 ![Image](https://drive.google.com/uc?export=view&id=1PYSNUub0T9utLj-mwMTJi5YbAYw9qoXH)
 
 
-`PS This portfolio is currently being updated.`
-
-
-  
-  
-  
-  
-  
-  
-  
-  
-
-
+`Note: This portfolio is currently being updated.`
