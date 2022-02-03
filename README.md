@@ -8,7 +8,7 @@
 ***
 
 <table>
-<p align="center"><a href="#"><img src="https://raw.githubusercontent.com/ambarja/30DayMapChallenge/master/images/flyers/30dmpc_2021.png"></a></p>
+<p align="center"><a href="#"><img src="https://raw.githubusercontent.com/ambarja/30DayMapChallenge/master/images/flyers/30dmpc_2021.png" width="250"></a></p>
 </table>
 
 Well it’s a wrap. Topi Tjukanov's #30DayMapChallenge this year arrived at the perfect time for me. After avidly observing the challenge in 2020 as a spectator, I began preparing the maps as soon as the topic for this year's challenge was released in early October 2021.
