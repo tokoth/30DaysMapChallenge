@@ -5,10 +5,11 @@
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/okoth-tyson-0968a9178/)
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tokoth)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tysonokoth8@gmail.com)
+
 ***
 
 <table>
-<p align="center"><a href="#"><img src="https://raw.githubusercontent.com/ambarja/30DayMapChallenge/master/images/flyers/30dmpc_2021.png" style="width: 50%;"></a></p>
+<p align="center"><a href="#"><img src="https://raw.githubusercontent.com/ambarja/30DayMapChallenge/master/images/flyers/30dmpc_2021.png"></a></p>
 </table>
 
 Well it’s a wrap. Topi Tjukanov's #30DayMapChallenge this year arrived at the perfect time for me. After avidly observing the challenge in 2020 as a spectator, I began preparing the maps as soon as the topic for this year's challenge was released in early October 2021.
