@@ -26,5 +26,7 @@ Here is a montage of my maps.
 
 ![Image](https://drive.google.com/uc?export=view&id=1PYSNUub0T9utLj-mwMTJi5YbAYw9qoXH)
 
+<p align="center"><a href="#" class="image fit"><img src="https://drive.google.com/file/d/1QvgnQKiJ8nAISp3yFSlEL9gnUp36gCIK/view?usp=sharing"></a></p> 
+
 
 `Note: This portfolio is currently being updated.`
