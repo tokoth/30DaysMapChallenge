@@ -9,7 +9,7 @@
 ***
 
 <table>
-<p align="center"><a href="#" class="image fit"><img src="https://twitter.com/tyson_okoth/status/1465416753824022537/photo/1"></a></p>
+<p align="center"><a href="#" class="image fit"><img src="https://pbs.twimg.com/media/FFY0tXAXsAE3ZuB?format=jpg&name=4096x4096"></a></p>
 </table>
 
 Well it’s a wrap. Topi Tjukanov's #30DayMapChallenge this year arrived at the perfect time for me. After avidly observing the challenge in 2020 as a spectator, I began preparing the maps as soon as the topic for this year's challenge was released in early October 2021.
