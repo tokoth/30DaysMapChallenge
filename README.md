@@ -24,9 +24,9 @@ Mapping tools and software’s used; QGIS, ArcGIS Pro, Python, Blender, Aerialod
 
 Here is a montage of my maps.
 
-<p align="center"> ![Image](https://drive.google.com/uc?export=view&id=1PYSNUub0T9utLj-mwMTJi5YbAYw9qoXH) </p>
+<p align="center"><b> ![Image](https://drive.google.com/uc?export=view&id=1PYSNUub0T9utLj-mwMTJi5YbAYw9qoXH) </b></p>
 
-<p align="center"> ![Image](https://drive.google.com/uc?export=view&id=1QvgnQKiJ8nAISp3yFSlEL9gnUp36gCIK) </p> 
+<p align="center"><b> ![Image](https://drive.google.com/uc?export=view&id=1QvgnQKiJ8nAISp3yFSlEL9gnUp36gCIK) </b></p> 
 
 
 `Note: This portfolio is currently being updated.`
