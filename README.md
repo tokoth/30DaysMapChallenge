@@ -26,9 +26,16 @@ Here is a montage of my maps.
 
 ![Image](https://drive.google.com/uc?export=view&id=1PYSNUub0T9utLj-mwMTJi5YbAYw9qoXH)
 
-
 ### Daily Challenges 
-![Image](https://drive.google.com/uc?export=view&id=1QvgnQKiJ8nAISp3yFSlEL9gnUp36gCIK)
+
+|   |   |
+|---|---|
+| <p align="center"><a href="#" class="image fit"><img src="https://pbs.twimg.com/media/FDIOPSJWUAIWN2N?format=jpg&name=4096x4096"></a></p>  | <p align="center"><a href="#" class="image fit"><img src="https://pbs.twimg.com/media/FDNHyM_XEAsBZlr?format=jpg&name=4096x4096"></a></p>  |
+|<h5 align="center">Day 1: Points</h5><p>A map of Hospital locations in the capital city Nairobi. <br>Data source- OpenStreetMap. <br>Map made using QGIS software.</p>  |<h5 align="center">Day 2: Lines</h5> <p>A map of average travel time by bus from the capital city Nairobi, Kenya to all the regional headquarters.<br>Data source- OpenStreetMap Nomanitim. <br>Map made using QGIS software.</p>|
+|<p align="center"><a href="#" class="image fit"><img src="https://raw.githubusercontent.com/ambarja/30DayMapChallenge/master/images/flyers/30dmpc_2021.png"></a></p>   | <p align="center"> ![Image](https://drive.google.com/uc?export=view&id=1QvgnQKiJ8nAISp3yFSlEL9gnUp36gCIK) </p>   |
+|<h5 align="center">Day 3: Polygons </h5> <p>A map of Hospital locations in the capital city Nairobi. <br>Data source- OpenStreetMap. <br>Map made using QGIS software.</p>|<h5 align="center">Day 4: Hexagons </h5> <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Assumenda ratione, deleniti repudiandae aspernatur error repellat placeat animi illum facilis labore nihil natus quae laudantium voluptas? </p>|
+|   |   |
+|   |   |
 
 
 `Note: This portfolio is currently being updated.`
