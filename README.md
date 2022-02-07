@@ -26,6 +26,8 @@ Here is a montage of my maps.
 
 ![Image](https://drive.google.com/uc?export=view&id=1PYSNUub0T9utLj-mwMTJi5YbAYw9qoXH)
 
+
+### Daily Challenges 
 ![Image](https://drive.google.com/uc?export=view&id=1QvgnQKiJ8nAISp3yFSlEL9gnUp36gCIK)
 
 
